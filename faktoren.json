@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "stand": "2026-10-20",
+  "hinweis": "Öffentliche Referenzwerte für AD-Tools (Gebäudewert). Keine Kundendaten. Werte ohne Gewähr – maßgeblich sind Tarif und Bedingungen des Versicherers.",
+  "baupreisindex_1914_100": {
+    "2026": 2263.6,
+    "1980": 627.3,
+    "1970": 325.6
+  },
+  "gleitender_neuwertfaktor": { "2025": 26.7, "2026": 27.8 },
+  "anpassungsfaktor_vgb2000": { "2025": 26.51, "2026": 27.63 },
+  "wertzuschlag": {
+    "UNP_1970": { "faktor": 6.952, "berechnet": true, "hinweis": "Baupreisindex 2026 ÷ 1970 – nicht R+V-offiziell" },
+    "KLP_1980": { "faktor": 3.609, "berechnet": true, "hinweis": "Baupreisindex 2026 ÷ 1980 – nicht R+V-offiziell" }
+  },
+  "quellen": [
+    "https://versipedia.de/blog/wohngebaeudeversicherung-kosten",
+    "https://gebaeudeversichert.de/rechner/anpassungsfaktor-tabelle.php",
+    "https://www.gev-versicherung.de/ratgeber/der-wert-1914-in-der-wohngebaeudeversicherung/",
+    "https://verbraucherforum-info.de/wp-content/uploads/2019/03/baupreisindex-10-2012.pdf"
+  ]
+}
