@@ -11,7 +11,7 @@
   "anpassungsfaktor_vgb2000": { "2025": 26.51, "2026": 27.63 },
   "wertzuschlag": {
     "UNP_1970": { "faktor": 6.952, "berechnet": true, "hinweis": "Baupreisindex 2026 ÷ 1970 – nicht R+V-offiziell" },
-    "KLP_1980": { "faktor": 3.609, "berechnet": true, "hinweis": "Baupreisindex 2026 ÷ 1980 – nicht R+V-offiziell" }
+    "KLP_1980": { "faktor": 3.608, "berechnet": true, "hinweis": "Baupreisindex 2026 ÷ 1980 – nicht R+V-offiziell" }
   },
   "quellen": [
     "https://versipedia.de/blog/wohngebaeudeversicherung-kosten",
